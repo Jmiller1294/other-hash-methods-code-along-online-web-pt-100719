@@ -17,5 +17,5 @@ groceries = {
 }
 
 groceries.values.flatten
-binding.pry
+
 end
